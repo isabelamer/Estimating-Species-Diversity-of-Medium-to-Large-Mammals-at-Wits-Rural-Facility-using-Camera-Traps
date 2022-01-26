@@ -28,4 +28,3 @@ plot(spec1, ci.type="poly", col="black", ldw=2, ci.lty=0, ci.col="lightblue", xl
 axis(1, tick=F)
 axis(2, tick=F, las=2)
 
-?specaccum
