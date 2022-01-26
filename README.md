@@ -10,3 +10,13 @@ Camera trapping was conducted in September 2017. Collection lasted 10 days, from
  ![image](https://user-images.githubusercontent.com/81169525/151237467-23fe88af-e783-4bb2-a43f-128a1ad48b0e.png)
 
 Figure 1: Map of Wits Rural Facility showing 24 camera trap sites. GPS location of the 2 remaining was could not be obtained.
+
+
+![image](https://user-images.githubusercontent.com/81169525/151238464-d4b71047-6b8f-4558-8378-4723362a94ed.png)
+
+
+Figure 2: Species accumulation curve for the community of animals detected by camera trapping.
+Detection was randomised 100 times.
+
+Both Abundance-based Coverage Estimator (ACE) of species richness and CHAOS1 were used to analyse data. The ACE estimate is 21.156049  (SE = 2.207290). While the CHAOS estimate is 20.0000 (SE = 2.871314).
+![image](https://user-images.githubusercontent.com/81169525/151238344-9ef2adb3-4b8d-45b7-81b3-4306fe88ec69.png)
