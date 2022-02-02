@@ -13,6 +13,10 @@ Figure 1: Map of Wits Rural Facility showing 24 camera trap sites. GPS location 
 
 
 
+# Results:
+
+[speciesaccumulationcurve.pdf](https://github.com/isabelamer/Estimating-Species-Diversity-of-Medium-to-Large-Mammals-at-Wits-Rural-Facility-using-Camera-Traps/files/7990155/speciesaccumulationcurve.pdf)
+
 
 CHAOS 1 modelling estimates that 20 medium-to-large mammal species occur in the area. The ACE modelling also shows a similar result, with maximum number of species being at 21. Although the sampling effort was relatively small, results showed that the line indicating the number of species starts to flatten after around 20 sites.
 
